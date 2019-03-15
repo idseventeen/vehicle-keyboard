@@ -2,7 +2,7 @@
   "name": "vehicle-keyboard",
   "description": "车牌号输入键盘 for vuejs",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/VehicleKeyboard.vue",
   "author": "Shen7 <qi18226646281@gmail.com>",
   "license": "MIT"
 }
