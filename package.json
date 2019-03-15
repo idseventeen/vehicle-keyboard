@@ -4,11 +4,5 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Shen7 <qi18226646281@gmail.com>",
-  "license": "MIT",
-  "scripts": {
-    "serve": "vue-cli-service serve"
-  },
-  "devDependencies": {
-    "@vue/cli-service": "^3.5.1"
-  }
+  "license": "MIT"
 }
